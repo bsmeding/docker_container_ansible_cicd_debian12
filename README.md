@@ -3,7 +3,7 @@ Docker image for Ansible CiCd pipelines based on Debian 12
 
 ## Installed packages
 
-* ansible == 11.1.0
+* ansible
 * yamllint
 * jmespath
 * pynautobot
